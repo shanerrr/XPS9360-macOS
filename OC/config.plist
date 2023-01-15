@@ -1221,7 +1221,7 @@
 				<key>boot-args</key>
 				<string>alcid=1</string>
 				<key>csr-active-config</key>
-				<data>AwAAAA==</data>
+				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
 				<data></data>
 				<key>run-efi-updater</key>
