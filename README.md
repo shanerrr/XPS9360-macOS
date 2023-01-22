@@ -7,7 +7,7 @@ Memory             8G DDR3L 2133MHz
 Graphics           Intel HD Graphics 640
 Audio              Realtek ALC256/ALC3246
 Wi-Fi              BCM94360NG
-Storage            Toshiba 256 M.2 SSD
+Storage            KXG50ZNV256G NVMe TOSHIBA 256GB
 Monitor            FHD 1920x1080
 BIOS Verison       2.21.0
 macOS Version      Ventura 13.1
