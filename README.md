@@ -1,5 +1,5 @@
 # Hackintosh XPS 13 (9360)
-- Using Opencore 0.8.8
+- Using Opencore 0.9.2
 ```
 Model              DELL XPS13 9360
 CPU                Intel Core i7-7560U
@@ -10,5 +10,5 @@ Wi-Fi              BCM94360NG
 Storage            KXG50ZNV256G NVMe TOSHIBA 256GB
 Monitor            FHD 1920x1080
 BIOS Verison       2.21.0
-macOS Version      Ventura 13.1
+macOS Version      Ventura 13.4
 ```
