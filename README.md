@@ -5,7 +5,7 @@ Model              DELL XPS13 9360
 CPU                Intel Core i7-7560U
 Memory             8G DDR3L 2133MHz
 Graphics           Intel HD Graphics 640
-Audio              Realtek ALC256/ALC3246
+Audio              Realtek ALC256/ALC3246 - Layout 21.
 Wi-Fi              BCM94360NG
 Storage            KXG50ZNV256G NVMe TOSHIBA 256GB
 Monitor            FHD 1920x1080
